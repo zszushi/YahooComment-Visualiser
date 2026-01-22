@@ -38,6 +38,8 @@ Yahoo!ニュースのコメント欄に、各ユーザーの過去の評価実�
 
 2. **スクリプトのインストール**
    - 下記のリンクにアクセスするか、GreasyForkのリンクから、拡張機能に従ってインストールを行ってください。
+   [GreasyFork](https://greasyfork.org/ja/scripts/563665-%E3%83%A4%E3%83%95%E3%82%B3%E3%83%A1-%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%A9%95%E4%BE%A1%E8%A1%A8%E7%A4%BA)
+   [GitHub](https://raw.githubusercontent.com/zszushi/YahooComment-Visualiser/refs/heads/main/YahooCommentScript.js)
 
 ---
 
