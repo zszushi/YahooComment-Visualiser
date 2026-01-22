@@ -3,14 +3,17 @@
 // @namespace    https://github.com/zszushi/YahooCommentRatio
 // @version      2.0
 // @description  Yahoo!ニュースのコメント欄にユーザーの評価(共感した/なるほど/うーん)を表示
-// @author       zszushi, Claude Sonnet 4.5
+// @author       zszushi, Google Antigravity
 // @match        https://news.yahoo.co.jp/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
 // @connect      news.yahoo.co.jp
+// @license      MIT
 // @run-at       document-idle
+// @downloadURL https://update.greasyfork.org/scripts/563665/%E3%83%A4%E3%83%95%E3%82%B3%E3%83%A1%20%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%A9%95%E4%BE%A1%E8%A1%A8%E7%A4%BA.user.js
+// @updateURL https://update.greasyfork.org/scripts/563665/%E3%83%A4%E3%83%95%E3%82%B3%E3%83%A1%20%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%A9%95%E4%BE%A1%E8%A1%A8%E7%A4%BA.meta.js
 // ==/UserScript==
 
 (function () {
