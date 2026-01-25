@@ -66,7 +66,7 @@ Tampermonkeyでのみ動作を確認しています。(多分動くとは思い�
 
 ## 🤝 サポート・貢献
 
-バグ報告や機能の提案は、GitHub の Issues や、GreasyForkのフィードバックまでお寄せください。
+バグ報告や機能の提案は、GitHub の Issues や、GreasyForkのフィードバック、Discord @zszushiまでお寄せください。
 このスクリプトは、Tampermonkey + Chrome, Firefoxの環境で動作確認されています。
 
 ---
